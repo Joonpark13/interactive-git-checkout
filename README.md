@@ -4,6 +4,10 @@ Check out branches through an interactive CLI. When run, you will be prompted wi
 
 Built using inquirer.js
 
+## Install
+
+For now, you'll have to clone the repo. NPM instructions coming shortly!
+
 ## Usage
 
 ```
